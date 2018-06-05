@@ -4,7 +4,7 @@
  * Requirements:OpenMP should be installed
  *
  * Created By Yashasvi Goel
- * Dated: 06/04/18
+ * Dated: 04/06/18
  * Input the size of First array
  * Followed by the Array
  * Repeat for Second array
